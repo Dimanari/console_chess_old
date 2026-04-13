@@ -1,6 +1,7 @@
 # Console Chess #
 
 This is a "for fun" project I'm doing. it's public for educational purposes only and is probably NOT going to be updated in the future.
+originally created back in 2021, and re-uploaded here by me to merge my fragmented presence online.
 
 ### What is this repository for? ###
 
